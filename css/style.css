@@ -1957,3 +1957,19 @@ CONTACT PAGE
 }
 
 /*# sourceMappingURL=maps/style.css.map */
+
+.banner-area {
+  background: url("../images/paneles-solares-en-puebla-01.webp") fixed 50% 50% no-repeat !important;
+  background-size: cover;
+}
+
+.ahorra{
+  font-size: 35px;
+  font-weight: bold;
+  font-style: italic;
+  text-shadow: 1px 1px green;
+}
+
+.call-text{
+  font-size: 40px;
+}
